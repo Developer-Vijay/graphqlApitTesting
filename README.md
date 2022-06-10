@@ -1,6 +1,6 @@
 # graphqlproject
 
-A new Flutter project.
+In This I have created the Api in hasura graphql then i have used the graphql flutter package the api in my app and created one home page which showcase the data which is fetched using the graphql.
 
 ## Getting Started
 
